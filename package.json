@@ -1,6 +1,6 @@
 {
   "name": "@bsc-scan-retrunvoid/tea-ryanaljaras",
-  "version": "0.1.0",
+  "version": "1.1.1",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
