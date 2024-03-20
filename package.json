@@ -8,11 +8,13 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "bsc-scan-retrunvoid": "^1.1.0",
+    "bsc-scan-retrunvoid": "^1.1.2",
     "next": "14.1.3",
     "react": "^18",
     "react-dom": "^18",
-    "tea-retrunvoid": "^0.0.2"
+    "tea-retrunvoid": "^0.0.2",
+    "tea-ryanaljaras12": "^1.2.2",
+    "tea-testnet-retrunvoid": "^1.1.1"
   },
   "devDependencies": {
     "@types/node": "^20",
